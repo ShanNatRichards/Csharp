@@ -1,6 +1,6 @@
 
 # C#: Check the Excel SheetName
-## Using Microsft.ACE.OlEDB
+## Using Microsft.ACE.OLEDB
 
 
 When data pipeline requires a user-uploaded excel file to be read to a database,  a common breakpoint is the ETL process failing spectacularly :fearful: because the 
